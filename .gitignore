@@ -12,6 +12,7 @@ public/sw.*.js
 ecosystem.config.js
 .ecosystemCache
 pm2Reload.js
+debug.log
 
 
 deploy.zip
